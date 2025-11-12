@@ -65,6 +65,13 @@
     showGreeting(savedName);
   }
 </script
+      <p id="ga-status">Checking GA...</p>
+<script>
+  setTimeout(() => {
+    document.getElementById("ga-status").innerText =
+      typeof gtag === "function" ? "Google Analytics tag loaded!" : "Google Analytics Tag not found.";
+  }, 2000);
+</script>
     <footer>
         <p>© 2025 Danube Mappings, All Rights Reserved.</p>
     </footer>
