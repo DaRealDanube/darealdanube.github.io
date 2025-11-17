@@ -2,4 +2,6 @@
 
 __here you will find the [https://darealdanube.github.io/LiterallyImpossibleLevelsList.html] (aka LILL), my projects, and my website!! 😺😺😺 :D__
 
-~ © *2025 Danube Mappings, All Rights Reserved.* 
+``` html
+<sub> © *2025 Danube Mappings, All Rights Reserved.* </sub>
+```
