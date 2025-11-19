@@ -88,3 +88,19 @@ ul, ol {
     border-color: #808080 #FFFFFF #FFFFFF #808080;
     padding: 4px 9px 2px 11px;
 }
+/* Example Styling for a News Box */
+.alert-box {
+    /* Use a contrasting color */
+    background-color: #FFFFCC; 
+    border: 2px solid #FF0000; /* Bright red border */
+    padding: 10px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+/* Example Styling for a Floating Column */
+#left-nav {
+    width: 150px;
+    float: left; /* The key to horizontal layout */
+    padding: 5px;
+}
